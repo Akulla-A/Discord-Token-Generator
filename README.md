@@ -1,4 +1,4 @@
-# Discord_TokenGenerator
+# A Discord Token Generator
 A "working" discord token generator with puppeteer
 
 It's not fully working, the script is not perfect because I didn't finish it.
